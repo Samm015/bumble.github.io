@@ -180,6 +180,15 @@ const passages = [
                     { text: "Whether to walk faster or slower", correct: false},
                     { text: "Whether to continue straight ahead or turn into a side street", correct: true},
                 ]
+            },
+             {
+                question:
+                    "What literary device is used in the following sentence: "The thunderclaps came closer, echoing like the footfalls of an angry god across the vast marble pavement of the sky."",
+                answers: [
+                    { text: "Simile", correct: false},
+                    { text: "Metaphor", correct: false},
+                    { text: "Personification", correct: true},
+                ]
             }
         ]
     },
@@ -207,6 +216,15 @@ const passages = [
                     { text: "Hegel's dialectical materialism focuses on the material world as the driving force of history, but critics argue it ignores ideas.", correct: false},
                     { text: "Hegel's dialectic emphasizes historical contingency and individual agency, but critics find it overly idealistic.", correct: false},
                     { text: "Hegel's dialectic sees history as a series of conflicts leading to progress, but critics find it too deterministic and teleological.", correct: true}, 
+                ]
+            },
+            {
+                question:
+                    "According to the passage, what is a criticism of Hegel's view of historical progress?",
+                answers: [
+                    { text: "History progresses through a random series of events.", correct: false},
+                    { text: "Individuals have no influence on the course of history.", correct: false},
+                    { text: "Historical events are unpredictable and shaped by individual choices.", correct: true},
                 ]
             }
         ]
