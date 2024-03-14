@@ -183,7 +183,7 @@ const passages = [
             },
              {
                 question:
-                    "What literary device is used in the following sentence: "The thunderclaps came closer, echoing like the footfalls of an angry god across the vast marble pavement of the sky."",
+                    "What literary device is used in the following sentence: 'The thunderclaps came closer, echoing like the footfalls of an angry god across the vast marble pavement of the sky.'",
                 answers: [
                     { text: "Simile", correct: false},
                     { text: "Metaphor", correct: false},
